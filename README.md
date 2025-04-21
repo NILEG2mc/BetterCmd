@@ -1,0 +1,2 @@
+# BetterCmd
+Useless Test!
